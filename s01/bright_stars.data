@@ -1,0 +1,49 @@
+#
+# List of bright stars
+#
+#  Time-stamp: <2023/07/27 09:16:25 (CST) daisuke>
+#
+#  data file prepared by Kinoshita Daisuke
+#
+#  data format
+#
+#   1st column: star name
+#   2nd column: V-band apparent magnitude
+#   3rd column: B-V colour index
+#   4th column: annual parallax in mas
+#
+#   column separator: ","
+#
+Achernar,        +0.43, -0.16,  23.39
+Acrux,           +0.76, -0.26,  10.13
+Adhara,          +1.50, -0.21,   7.57
+Aldebaran,       +0.86, +1.44,  49.97
+Alioth,          +1.77, -0.02,  39.51
+Alnair,          +1.74, -0.13,  32.29
+Alnilam,         +1.69, -0.18,   1.65
+Alnitak,         +1.77, -0.11,   4.43
+Altair,          +0.76, +0.22, 194.95
+Antares,         +1.09, +1.83,   5.89
+Arcturus,        -0.05, +1.23,  88.83
+Bellatrix,       +1.64, -0.21,  12.92
+Betelgeuse,      +0.50, +1.85,   5.95
+Canopus,         -0.74, +0.15,  10.55
+Capella,         +0.08, +0.80,  76.20
+Castor,          +1.93, +0.03,  64.12
+Deneb,           +1.25, +0.09,   2.29
+Elnath,          +1.65, -0.13,  24.36
+Fomalhaut,       +1.16, +0.09, 129.81
+Gacrux,          +1.64, +1.59,  36.83
+Hadar,           +0.61, -0.23,   8.32
+Miaplacidus,     +1.69, +0.00,  28.82
+Mimosa,          +1.25, -0.23,  11.71
+Polaris,         +1.98, +0.60,   7.54
+Pollux,          +1.14, +1.00,  96.54
+Procyon,         +0.34, +0.42, 284.56
+Regulus,         +1.40, -0.11,  41.13
+Rigel,           +0.13, -0.03,   3.24
+Rigil Kentaurus, +0.01, +0.71, 750.81
+Shaula,          +1.62, -0.24,   5.71
+Sirius,          -1.46, +0.00, 379.21
+Spica,           +0.97, -0.23,  13.06
+Vega,            +0.03, +0.00, 130.23
