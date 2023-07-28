@@ -1,0 +1,32 @@
+#
+# planets data
+#
+#  Time-stamp: <2023/07/27 22:40:42 (CST) daisuke>
+#
+#  original data from https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+#  data file prepared by Kinoshita Daisuke
+#
+#  format of data file
+#   column 01: name of planet
+#   column 02: mass in kg
+#   column 03: radius in km
+#   column 04: density in kg/m^3
+#   column 05: escape velocity in km/s
+#   column 06: rotation period in hr
+#   column 07: orbital period in day
+#   column 08: semimajor axis in au
+#   column 09: eccentricity
+#   column 10: inclination in deg
+#   column 11: mean temperature in deg C
+#   column 12: number of moons
+#   column 13: existence of ring system ("Yes" or "No")
+#   column 14: existence of global magnetic field ("Yes" or "No")
+#
+Mercury 3.30E23  2440 5429  4.3 1407.6    88.0  0.387 0.206 7.0  167  0 No  Yes
+Venus   4.87E24  6052 5243 10.4 5832.5   224.7  0.723 0.007 3.4  464  0 No  No
+Earth   5.97E24  6378 5514 11.2   23.9   365.2  1.000 0.017 0.0   15  1 No  Yes
+Mars    6.42E23  3396 3934  5.0   24.6   687.0  1.524 0.094 1.8  -65  2 No  No
+Jupiter 1.90E27 71492 1326 59.5    9.9  4331    5.204 0.049 1.3 -110 92 Yes Yes
+Saturn  5.68E26 60268  687 35.5   10.7 10747    9.572 0.052 2.5 -140 83 Yes Yes
+Uranus  8.68E25 25559 1270 21.3   17.2 30589   19.164 0.047 0.8 -195 27 Yes Yes
+Neptune 1.02E26 24764 1638 23.5   16.1 59800   30.180 0.010 1.8 -200 14 Yes Yes
